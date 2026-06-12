@@ -39,6 +39,6 @@ Cleaned Dataset
 Dashboard Screenshots
 Business Insights Report
 Final Spreadsheet Project File
-Author
 
-Kantipudi Sahithi
+Author
+Mote Hasini
